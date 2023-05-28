@@ -14,6 +14,9 @@ Our data is stored in a folder named zippedData. The data is sourced from a vari
 
 Data gathered from IMDB included movie genres, average ratings, and the number of votes received. The data was joined to view all relevant data on one table. 
 
+![IM.db database schema](/movie_data_erd.jpeg)
+
+
 The data we analyzed from the other sources includes budgets, domestic/worldwide gross, and release date.
 
 ## Results
@@ -69,16 +72,19 @@ Link: [Presentation](https://docs.google.com/presentation/d/1BLbA84XNdweuNP61H8K
 │   ├── return_on_investment_vs_genres.png
 │   ├── correlation_between_runtime_and_average_rating.png
 ├── Data
-│   ├── bom.movie_gross.csv.gz
-│   ├── im.db.zip
-│   ├── rt.movie_info.tsv.gz
-│   ├── rt.reviews.tsv.gz
-│   ├── tmdb.movies.csv.gz
-│   └── tn.movie_budgets.csv.gz
+│   ├── bom.movie_gross.csv
+│   ├── im.db
+│   ├── movie_info.tsv
+│   ├── reviews.tsv
+│   ├── tmdb_movies.csv
+│   └── tn_movie_budgets.csv
 ├── .env
 ├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE.md
 ├── README.md
+├── notebook.pdf
 ├── presentation.pdf
-└── student.ipynb
+└── index.ipynb
 ```
 
