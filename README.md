@@ -65,7 +65,7 @@ Here are other ideas to explore for future analysis:
 
 
 ## Presentation Link
-Link: [Presentation](https://docs.google.com/presentation/d/1tbZg904uvMOtgNyubDKPGkIxGOk-1VOqFgCTMowjDpQ/edit#slide=id.g164f1886d5d_0_635)
+Link: [Presentation](https://docs.google.com/presentation/d/1tbZg904uvMOtgNyubDKPGkIxGOk-1VOqFgCTMowjDpQ/edit?usp=sharing)
 
 ## Repository Structure
 ```
