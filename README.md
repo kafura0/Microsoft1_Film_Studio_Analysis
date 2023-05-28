@@ -80,11 +80,9 @@ Link: [Presentation](https://docs.google.com/presentation/d/1tbZg904uvMOtgNyubDK
 │   └── tn_movie_budgets.csv
 ├── .env
 ├── .gitignore
-├── CONTRIBUTING.md
-├── LICENSE.md
 ├── README.md
-├── notebook.pdf
+├── final_notebook.pdf
 ├── presentation.pdf
-└── index.ipynb
+
 ```
 
